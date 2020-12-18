@@ -1,6 +1,6 @@
 <!-- ![](https://github.com/adsehgal/adsehgal/blob/master/LOGO.png) -->
 ![](LOGO_V1.1.png)
-# *Bench Power Supply PCB*
+<!-- # *Bench Power Supply PCB*
 
 This repo contains project files for a bench top power supply I designed for my home lab.
 
@@ -27,4 +27,4 @@ This repo contains project files for a bench top power supply I designed for my 
 
 ## Authors
 
-* **Aditya Sehgal** - *PCB Layout, Firmware, 3-D Modelling* - [Adsehgal](https://github.com/adsehgal)
+* **Aditya Sehgal** - *PCB Layout, Firmware, 3-D Modelling* - [Adsehgal](https://github.com/adsehgal) -->
